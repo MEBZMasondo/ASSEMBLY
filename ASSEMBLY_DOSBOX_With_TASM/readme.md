@@ -31,7 +31,6 @@
 - tlink hello ; 2x more files HELLO.EXE, HELLO.MAP   ; Total of 4 files 
 - hello		; runs the executable
 
-;---------------------------------------------------------------------------------------------------------------------------
 ## I/O LIBRAY or EXTERNAL ROUTINES 
 - USES THE FILE aoasm.lib 
 - readsint.asm & writesint.asm
